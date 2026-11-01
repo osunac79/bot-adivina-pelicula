@@ -1,0 +1,17 @@
+{
+  "round_counter": 0,
+  "round": null,
+  "last_daily": null,
+  "last_notification_id": null,
+  "used_tmdb_ids": [],
+  "scores": {
+    "weekly": {},
+    "monthly": {},
+    "alltime": {}
+  },
+  "streaks": {},
+  "solved_counts": {},
+  "week_rounds": [],
+  "history": [],
+  "monthly_posted": null
+}
