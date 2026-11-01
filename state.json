@@ -104,6 +104,12 @@
   "streaks": {},
   "solved_counts": {},
   "week_rounds": [],
-  "history": [],
+  "history": [
+    {
+      "week_end": "2026-11-01",
+      "top": [],
+      "rounds": 0
+    }
+  ],
   "monthly_posted": null
 }
