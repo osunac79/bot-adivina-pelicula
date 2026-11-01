@@ -1,0 +1,42 @@
+name: Resumen semanal
+
+on:
+  schedule:
+    - cron: "0 19 * * 0"   # domingos 19:00 UTC (20:00-21:00 en Madrid)
+  workflow_dispatch:
+
+concurrency:
+  group: bot-state
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Publicar resumen semanal
+        env:
+          MASTODON_API_BASE_URL: ${{ secrets.MASTODON_API_BASE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python bot.py weekly
+      - name: Guardar estado del juego
+        if: always()
+        run: |
+          git config user.name "bot-adivina-pelicula"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "estado: resumen semanal"
+            git pull --rebase --autostash || true
+            git push
+          fi
