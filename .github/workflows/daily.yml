@@ -1,0 +1,47 @@
+name: Pista diaria
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 08:00 UTC = 09:00 en Madrid en invierno (10:00 en verano)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Forzar aunque ya se haya publicado hoy"
+        type: boolean
+        default: false
+
+concurrency:
+  group: bot-state
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Publicar la pista del día
+        env:
+          MASTODON_API_BASE_URL: ${{ secrets.MASTODON_API_BASE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python bot.py daily ${{ inputs.force && '--force' || '' }}
+      - name: Guardar estado del juego
+        if: always()
+        run: |
+          git config user.name "bot-adivina-pelicula"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "estado: pista diaria"
+            git pull --rebase --autostash || true
+            git push
+          fi
