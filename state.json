@@ -1,9 +1,97 @@
 {
-  "round_counter": 0,
-  "round": null,
-  "last_daily": null,
+  "round_counter": 1,
+  "round": {
+    "n": 1,
+    "theme": "terror",
+    "movie": {
+      "tmdb_id": 1339713,
+      "title": "Obsession",
+      "original_title": "Obsession",
+      "title_en": "Obsession",
+      "year": 2026,
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "tagline": "Ten cuidado con quién te gusta...",
+      "runtime": 109,
+      "vote_average": 8.169,
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "directors": [
+        "Curry Barker"
+      ],
+      "cast": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson",
+        "Megan Lawless",
+        "Andy Richter",
+        "Haley Fitzgerald"
+      ],
+      "countries": [
+        "EE. UU.",
+        "Reino Unido"
+      ],
+      "language": "inglés",
+      "companies": [
+        "Tea Shop Productions",
+        "Under the Shell",
+        "Capstone Pictures",
+        "Blumhouse Productions"
+      ],
+      "poster_path": "/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg"
+    },
+    "aliases": [
+      "Obsession"
+    ],
+    "hints": [
+      {
+        "icon": "🎭",
+        "label": "Género",
+        "value": "Terror, Suspense"
+      },
+      {
+        "icon": "📅",
+        "label": "Época y país",
+        "value": "década de 2020 · EE. UU."
+      },
+      {
+        "icon": "🎬",
+        "label": "Dirección",
+        "value": "Curry Barker"
+      },
+      {
+        "icon": "👥",
+        "label": "Reparto",
+        "value": "Michael Johnston y Inde Navarrette"
+      },
+      {
+        "icon": "💬",
+        "label": "Eslogan",
+        "value": "«Ten cuidado con quién te gusta...»"
+      },
+      {
+        "icon": "📝",
+        "label": "Sinopsis",
+        "value": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla."
+      }
+    ],
+    "hint_day": 1,
+    "hint_times": [
+      "2026-11-01T19:20:05.828996+01:00"
+    ],
+    "toot_ids": [
+      "117542565091939670"
+    ],
+    "status": "active",
+    "winners": [],
+    "attempts": {}
+  },
+  "last_daily": "2026-11-01",
   "last_notification_id": 7320591,
-  "used_tmdb_ids": [],
+  "used_tmdb_ids": [
+    1339713
+  ],
   "scores": {
     "weekly": {},
     "monthly": {},
