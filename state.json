@@ -1,110 +1,97 @@
 {
-  "round_counter": 1,
+  "round_counter": 2,
   "round": {
-    "n": 1,
-    "theme": "terror",
+    "n": 2,
+    "theme": "general",
     "movie": {
-      "tmdb_id": 1339713,
-      "title": "Obsession",
-      "original_title": "Obsession",
-      "title_en": "Obsession",
-      "year": 2026,
-      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "tagline": "Ten cuidado con quién te gusta...",
-      "runtime": 109,
-      "vote_average": 8.169,
+      "tmdb_id": 1724,
+      "title": "El increíble Hulk",
+      "original_title": "The Incredible Hulk",
+      "title_en": "The Incredible Hulk",
+      "year": 2008,
+      "overview": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra.",
+      "tagline": "Te gustará cuando está enfadado.",
+      "runtime": 114,
+      "vote_average": 6.267,
       "genres": [
-        "Terror",
-        "Suspense"
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
       ],
       "directors": [
-        "Curry Barker"
+        "Louis Leterrier"
       ],
       "cast": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson",
-        "Megan Lawless",
-        "Andy Richter",
-        "Haley Fitzgerald"
+        "Edward Norton",
+        "Liv Tyler",
+        "Tim Roth",
+        "William Hurt",
+        "Tim Blake Nelson",
+        "Ty Burrell"
       ],
       "countries": [
-        "EE. UU.",
-        "Reino Unido"
+        "EE. UU."
       ],
       "language": "inglés",
       "companies": [
-        "Tea Shop Productions",
-        "Under the Shell",
-        "Capstone Pictures",
-        "Blumhouse Productions"
+        "Marvel Studios",
+        "Valhalla Motion Pictures",
+        "Marvel Entertainment"
       ],
-      "poster_path": "/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg"
+      "poster_path": "/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg"
     },
     "aliases": [
-      "Obsession"
+      "El increíble Hulk",
+      "The Incredible Hulk"
     ],
     "hints": [
       {
         "icon": "🎭",
         "label": "Género",
-        "value": "Terror, Suspense"
+        "value": "Ciencia ficción, Acción, Aventura"
       },
       {
         "icon": "📅",
         "label": "Época y país",
-        "value": "década de 2020 · EE. UU."
+        "value": "década de 2000 · EE. UU."
       },
       {
         "icon": "🎬",
         "label": "Dirección",
-        "value": "Curry Barker"
+        "value": "Louis Leterrier"
       },
       {
         "icon": "👥",
         "label": "Reparto",
-        "value": "Michael Johnston y Inde Navarrette"
+        "value": "Edward Norton y Liv Tyler"
       },
       {
         "icon": "💬",
         "label": "Eslogan",
-        "value": "«Ten cuidado con quién te gusta...»"
+        "value": "«Te gustará cuando está enfadado.»"
       },
       {
         "icon": "📝",
         "label": "Sinopsis",
-        "value": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla."
+        "value": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra."
       }
     ],
     "hint_day": 1,
     "hint_times": [
-      "2026-11-01T19:20:05.828996+01:00"
+      "2026-11-02T19:04:34.898230+01:00"
     ],
     "toot_ids": [
-      "117542565091939670",
-      "117544265542978520"
+      "117548166413024718"
     ],
-    "status": "finished",
-    "winners": [
-      {
-        "acct": "osunac",
-        "day": 1,
-        "points": 7,
-        "streak": 1,
-        "streak_bonus": 0,
-        "theme_bonus": 0
-      }
-    ],
-    "attempts": {
-      "osunac": {
-        "1": 2
-      }
-    }
+    "status": "active",
+    "winners": [],
+    "attempts": {}
   },
-  "last_daily": "2026-11-01",
+  "last_daily": "2026-11-02",
   "last_notification_id": 7331376,
   "used_tmdb_ids": [
-    1339713
+    1339713,
+    1724
   ],
   "scores": {
     "weekly": {
