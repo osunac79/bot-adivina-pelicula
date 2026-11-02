@@ -81,29 +81,62 @@
       "2026-11-01T19:20:05.828996+01:00"
     ],
     "toot_ids": [
-      "117542565091939670"
+      "117542565091939670",
+      "117544265542978520"
     ],
-    "status": "active",
-    "winners": [],
+    "status": "finished",
+    "winners": [
+      {
+        "acct": "osunac",
+        "day": 1,
+        "points": 7,
+        "streak": 1,
+        "streak_bonus": 0,
+        "theme_bonus": 0
+      }
+    ],
     "attempts": {
       "osunac": {
-        "1": 1
+        "1": 2
       }
     }
   },
   "last_daily": "2026-11-01",
-  "last_notification_id": 7330223,
+  "last_notification_id": 7331149,
   "used_tmdb_ids": [
     1339713
   ],
   "scores": {
-    "weekly": {},
-    "monthly": {},
-    "alltime": {}
+    "weekly": {
+      "osunac": 7
+    },
+    "monthly": {
+      "2026-11": {
+        "osunac": 7
+      }
+    },
+    "alltime": {
+      "osunac": 7
+    }
   },
-  "streaks": {},
-  "solved_counts": {},
-  "week_rounds": [],
+  "streaks": {
+    "osunac": {
+      "current": 1,
+      "best": 1,
+      "last_round": 1
+    }
+  },
+  "solved_counts": {
+    "osunac": 1
+  },
+  "week_rounds": [
+    {
+      "n": 1,
+      "title": "Obsession",
+      "solved": true,
+      "day": 1
+    }
+  ],
   "history": [
     {
       "week_end": "2026-11-01",
