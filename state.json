@@ -76,16 +76,18 @@
         "value": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra."
       }
     ],
-    "hint_day": 3,
+    "hint_day": 4,
     "hint_times": [
       "2026-11-02T19:04:34.898230+01:00",
       "2026-11-03T17:00:36.499648+01:00",
-      "2026-11-04T17:06:12.351959+01:00"
+      "2026-11-04T17:06:12.351959+01:00",
+      "2026-11-05T17:20:25.320636+01:00"
     ],
     "toot_ids": [
       "117548166413024718",
       "117553341203639142",
-      "117559025521676386"
+      "117559025521676386",
+      "117564743745367389"
     ],
     "status": "active",
     "winners": [],
@@ -96,7 +98,7 @@
       }
     }
   },
-  "last_daily": "2026-11-04",
+  "last_daily": "2026-11-05",
   "last_notification_id": 7345804,
   "used_tmdb_ids": [
     1339713,
