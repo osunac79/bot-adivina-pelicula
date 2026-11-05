@@ -87,45 +87,56 @@
       "117548166413024718",
       "117553341203639142",
       "117559025521676386",
-      "117564743745367389"
+      "117564743745367389",
+      "117565353521630718"
     ],
-    "status": "active",
-    "winners": [],
+    "status": "finished",
+    "winners": [
+      {
+        "acct": "osunac",
+        "day": 4,
+        "points": 4,
+        "streak": 2,
+        "streak_bonus": 0,
+        "theme_bonus": 0
+      }
+    ],
     "attempts": {
       "osunac": {
         "1": 1,
-        "2": 1
+        "2": 1,
+        "4": 1
       }
     }
   },
   "last_daily": "2026-11-05",
-  "last_notification_id": 7345804,
+  "last_notification_id": 7350903,
   "used_tmdb_ids": [
     1339713,
     1724
   ],
   "scores": {
     "weekly": {
-      "osunac": 7
+      "osunac": 11
     },
     "monthly": {
       "2026-11": {
-        "osunac": 7
+        "osunac": 11
       }
     },
     "alltime": {
-      "osunac": 7
+      "osunac": 11
     }
   },
   "streaks": {
     "osunac": {
-      "current": 1,
-      "best": 1,
-      "last_round": 1
+      "current": 2,
+      "best": 2,
+      "last_round": 2
     }
   },
   "solved_counts": {
-    "osunac": 1
+    "osunac": 2
   },
   "week_rounds": [
     {
@@ -133,6 +144,12 @@
       "title": "Obsession",
       "solved": true,
       "day": 1
+    },
+    {
+      "n": 2,
+      "title": "El increíble Hulk",
+      "solved": true,
+      "day": 4
     }
   ],
   "history": [
