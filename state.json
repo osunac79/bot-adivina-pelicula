@@ -1,119 +1,96 @@
 {
-  "round_counter": 2,
+  "round_counter": 3,
   "round": {
-    "n": 2,
-    "theme": "general",
+    "n": 3,
+    "theme": "clasicos",
     "movie": {
-      "tmdb_id": 1724,
-      "title": "El increíble Hulk",
-      "original_title": "The Incredible Hulk",
-      "title_en": "The Incredible Hulk",
-      "year": 2008,
-      "overview": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra.",
-      "tagline": "Te gustará cuando está enfadado.",
-      "runtime": 114,
-      "vote_average": 6.267,
+      "tmdb_id": 872,
+      "title": "Cantando bajo la lluvia",
+      "original_title": "Singin' in the Rain",
+      "title_en": "Singin' in the Rain",
+      "year": 1952,
+      "overview": "Antes de conocer a la aspirante a actriz Cathy Seldon, el ídolo del cine mudo Don Lockwood pensaba que lo tenía todo; fama, fortuna y éxito. Pero, tras conocerla, se da cuenta de que ella es lo que realmente faltaba en su vida. Con el nacimiento del cine sonoro, Don quiere filmar los musicales con Kathy, pero entre ambos se interpone la reina del cine mudo Lina Lamont.",
+      "tagline": "¡Qué maravillosa sensación!",
+      "runtime": 103,
+      "vote_average": 8.1,
       "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
+        "Comedia",
+        "Romance"
       ],
       "directors": [
-        "Louis Leterrier"
+        "Stanley Donen",
+        "Gene Kelly"
       ],
       "cast": [
-        "Edward Norton",
-        "Liv Tyler",
-        "Tim Roth",
-        "William Hurt",
-        "Tim Blake Nelson",
-        "Ty Burrell"
+        "Gene Kelly",
+        "Donald O'Connor",
+        "Debbie Reynolds",
+        "Jean Hagen",
+        "Millard Mitchell",
+        "Cyd Charisse"
       ],
       "countries": [
         "EE. UU."
       ],
       "language": "inglés",
       "companies": [
-        "Marvel Studios",
-        "Valhalla Motion Pictures",
-        "Marvel Entertainment"
+        "Metro-Goldwyn-Mayer"
       ],
-      "poster_path": "/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg"
+      "poster_path": "/5r8jD5R6EzpQ5VLodbzTNhvKcGw.jpg"
     },
     "aliases": [
-      "El increíble Hulk",
-      "The Incredible Hulk"
+      "Cantando bajo la lluvia",
+      "Singin' in the Rain"
     ],
     "hints": [
       {
         "icon": "🎭",
         "label": "Género",
-        "value": "Ciencia ficción, Acción, Aventura"
+        "value": "Comedia, Romance"
       },
       {
         "icon": "📅",
         "label": "Época y país",
-        "value": "década de 2000 · EE. UU."
+        "value": "años 50 · EE. UU."
       },
       {
         "icon": "🎬",
         "label": "Dirección",
-        "value": "Louis Leterrier"
+        "value": "Stanley Donen y Gene Kelly"
       },
       {
         "icon": "👥",
         "label": "Reparto",
-        "value": "Edward Norton y Liv Tyler"
+        "value": "Gene Kelly y Donald O'Connor"
       },
       {
         "icon": "💬",
         "label": "Eslogan",
-        "value": "«Te gustará cuando está enfadado.»"
+        "value": "«¡Qué maravillosa sensación!»"
       },
       {
         "icon": "📝",
         "label": "Sinopsis",
-        "value": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra."
+        "value": "Antes de conocer a la aspirante a actriz Cathy Seldon, el ídolo del cine mudo Don Lockwood pensaba que lo tenía todo; fama, fortuna y éxito. Pero, tras conocerla, se da cuenta de que ella es lo que realmente faltaba en su vida. Con el nacimiento del cine sonoro, Don quiere filmar los musicales con Kathy, pero entre ambos se interpone la reina del cine mudo Lina Lamont."
       }
     ],
-    "hint_day": 4,
+    "hint_day": 1,
     "hint_times": [
-      "2026-11-02T19:04:34.898230+01:00",
-      "2026-11-03T17:00:36.499648+01:00",
-      "2026-11-04T17:06:12.351959+01:00",
-      "2026-11-05T17:20:25.320636+01:00"
+      "2026-11-06T16:49:16.479782+01:00"
     ],
     "toot_ids": [
-      "117548166413024718",
-      "117553341203639142",
-      "117559025521676386",
-      "117564743745367389",
-      "117565353521630718"
+      "117570283589970888"
     ],
-    "status": "finished",
-    "winners": [
-      {
-        "acct": "osunac",
-        "day": 4,
-        "points": 4,
-        "streak": 2,
-        "streak_bonus": 0,
-        "theme_bonus": 0
-      }
-    ],
-    "attempts": {
-      "osunac": {
-        "1": 1,
-        "2": 1,
-        "4": 1
-      }
-    }
+    "status": "active",
+    "winners": [],
+    "attempts": {}
   },
-  "last_daily": "2026-11-05",
+  "last_daily": "2026-11-06",
   "last_notification_id": 7351651,
   "used_tmdb_ids": [
     1339713,
-    1724
+    1724,
+    872
   ],
   "scores": {
     "weekly": {
