@@ -97,9 +97,7 @@
     872
   ],
   "scores": {
-    "weekly": {
-      "osunac": 11
-    },
+    "weekly": {},
     "monthly": {
       "2026-11": {
         "osunac": 11
@@ -119,25 +117,22 @@
   "solved_counts": {
     "osunac": 2
   },
-  "week_rounds": [
-    {
-      "n": 1,
-      "title": "Obsession",
-      "solved": true,
-      "day": 1
-    },
-    {
-      "n": 2,
-      "title": "El increíble Hulk",
-      "solved": true,
-      "day": 4
-    }
-  ],
+  "week_rounds": [],
   "history": [
     {
       "week_end": "2026-11-01",
       "top": [],
       "rounds": 0
+    },
+    {
+      "week_end": "2026-11-08",
+      "top": [
+        [
+          "osunac",
+          11
+        ]
+      ],
+      "rounds": 2
     }
   ],
   "monthly_posted": null
