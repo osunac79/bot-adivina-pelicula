@@ -85,41 +85,64 @@
       "117570283589970888",
       "117575710423130363",
       "117581394419307181",
-      "117587925723619945"
+      "117587925723619945",
+      "117588644957176038"
     ],
-    "status": "active",
-    "winners": [],
-    "attempts": {}
+    "status": "finished",
+    "winners": [
+      {
+        "acct": "osunac",
+        "day": 4,
+        "points": 5,
+        "streak": 3,
+        "streak_bonus": 1,
+        "theme_bonus": 0
+      }
+    ],
+    "attempts": {
+      "osunac": {
+        "4": 1
+      }
+    }
   },
   "last_daily": "2026-11-09",
-  "last_notification_id": 7364692,
+  "last_notification_id": 7369811,
   "used_tmdb_ids": [
     1339713,
     1724,
     872
   ],
   "scores": {
-    "weekly": {},
+    "weekly": {
+      "osunac": 5
+    },
     "monthly": {
       "2026-11": {
-        "osunac": 11
+        "osunac": 16
       }
     },
     "alltime": {
-      "osunac": 11
+      "osunac": 16
     }
   },
   "streaks": {
     "osunac": {
-      "current": 2,
-      "best": 2,
-      "last_round": 2
+      "current": 3,
+      "best": 3,
+      "last_round": 3
     }
   },
   "solved_counts": {
-    "osunac": 2
+    "osunac": 3
   },
-  "week_rounds": [],
+  "week_rounds": [
+    {
+      "n": 3,
+      "title": "Cantando bajo la lluvia",
+      "solved": true,
+      "day": 4
+    }
+  ],
   "history": [
     {
       "week_end": "2026-11-01",
