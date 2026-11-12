@@ -89,10 +89,14 @@
     ],
     "status": "active",
     "winners": [],
-    "attempts": {}
+    "attempts": {
+      "claraalbor": {
+        "2": 1
+      }
+    }
   },
   "last_daily": "2026-11-12",
-  "last_notification_id": 7381216,
+  "last_notification_id": 7385337,
   "used_tmdb_ids": [
     1339713,
     1724,
