@@ -76,16 +76,18 @@
         "value": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza."
       }
     ],
-    "hint_day": 3,
+    "hint_day": 4,
     "hint_times": [
       "2026-11-10T17:19:14.384100+01:00",
       "2026-11-11T16:58:59.290466+01:00",
-      "2026-11-12T17:42:29.080437+01:00"
+      "2026-11-12T17:42:29.080437+01:00",
+      "2026-11-13T17:00:32.677678+01:00"
     ],
     "toot_ids": [
       "117593050636303045",
       "117598633317193970",
-      "117604466654721446"
+      "117604466654721446",
+      "117609964048535234"
     ],
     "status": "active",
     "winners": [],
@@ -96,7 +98,7 @@
       }
     }
   },
-  "last_daily": "2026-11-12",
+  "last_daily": "2026-11-13",
   "last_notification_id": 7388065,
   "used_tmdb_ids": [
     1339713,
