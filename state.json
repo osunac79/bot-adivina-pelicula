@@ -87,19 +87,32 @@
       "117593050636303045",
       "117598633317193970",
       "117604466654721446",
-      "117609964048535234"
+      "117609964048535234",
+      "117611299860848645"
     ],
-    "status": "active",
-    "winners": [],
+    "status": "finished",
+    "winners": [
+      {
+        "acct": "osunac",
+        "day": 4,
+        "points": 5,
+        "streak": 4,
+        "streak_bonus": 1,
+        "theme_bonus": 0
+      }
+    ],
     "attempts": {
       "claraalbor": {
         "2": 1,
         "3": 1
+      },
+      "osunac": {
+        "4": 1
       }
     }
   },
   "last_daily": "2026-11-13",
-  "last_notification_id": 7388065,
+  "last_notification_id": 7391340,
   "used_tmdb_ids": [
     1339713,
     1724,
@@ -108,31 +121,37 @@
   ],
   "scores": {
     "weekly": {
-      "osunac": 5
+      "osunac": 10
     },
     "monthly": {
       "2026-11": {
-        "osunac": 16
+        "osunac": 21
       }
     },
     "alltime": {
-      "osunac": 16
+      "osunac": 21
     }
   },
   "streaks": {
     "osunac": {
-      "current": 3,
-      "best": 3,
-      "last_round": 3
+      "current": 4,
+      "best": 4,
+      "last_round": 4
     }
   },
   "solved_counts": {
-    "osunac": 3
+    "osunac": 4
   },
   "week_rounds": [
     {
       "n": 3,
       "title": "Cantando bajo la lluvia",
+      "solved": true,
+      "day": 4
+    },
+    {
+      "n": 4,
+      "title": "Los Juegos del Hambre",
       "solved": true,
       "day": 4
     }
