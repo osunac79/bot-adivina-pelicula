@@ -1,123 +1,97 @@
 {
-  "round_counter": 4,
+  "round_counter": 5,
   "round": {
-    "n": 4,
-    "theme": "general",
+    "n": 5,
+    "theme": "espanol",
     "movie": {
-      "tmdb_id": 70160,
-      "title": "Los Juegos del Hambre",
-      "original_title": "The Hunger Games",
-      "title_en": "The Hunger Games",
-      "year": 2012,
-      "overview": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
-      "tagline": "Que las posibilidades estén siempre a tu favor.",
-      "runtime": 142,
-      "vote_average": 7.226,
+      "tmdb_id": 766798,
+      "title": "Madres paralelas",
+      "original_title": "Madres paralelas",
+      "title_en": "Parallel Mothers",
+      "year": 2021,
+      "overview": "Dos mujeres solteras que se han quedado embarazadas por accidente y que están a punto de dar a luz coinciden en una habitación de hospital: Janis, de mediana edad, no se arrepiente y es feliz; Ana, una adolescente, se siente arrepentida y asustada.",
+      "tagline": "",
+      "runtime": 120,
+      "vote_average": 6.784,
       "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Acción",
-        "Suspense"
+        "Drama"
       ],
       "directors": [
-        "Gary Ross"
+        "Pedro Almodóvar"
       ],
       "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Lenny Kravitz"
+        "Penélope Cruz",
+        "Milena Smit",
+        "Israel Elejalde",
+        "Aitana Sánchez-Gijón",
+        "Rossy de Palma",
+        "Julieta Serrano"
       ],
       "countries": [
-        "EE. UU."
+        "España"
       ],
-      "language": "inglés",
+      "language": "español",
       "companies": [
-        "Lionsgate",
-        "Color Force"
+        "El Deseo",
+        "TVE"
       ],
-      "poster_path": "/nmwpp0ykPbddqGW8WmOdBEYFImC.jpg"
+      "poster_path": "/cxp4W9QtHOOdi2VfgUmB9AtljvA.jpg"
     },
     "aliases": [
-      "Los Juegos del Hambre",
-      "The Hunger Games"
+      "Madres paralelas",
+      "Parallel Mothers"
     ],
     "hints": [
       {
         "icon": "🎭",
         "label": "Género",
-        "value": "Ciencia ficción, Aventura, Acción"
+        "value": "Drama"
       },
       {
         "icon": "📅",
         "label": "Época y país",
-        "value": "década de 2010 · EE. UU."
+        "value": "década de 2020 · España"
       },
       {
         "icon": "🎬",
         "label": "Dirección",
-        "value": "Gary Ross"
+        "value": "Pedro Almodóvar"
       },
       {
         "icon": "👥",
         "label": "Reparto",
-        "value": "Jennifer Lawrence y Josh Hutcherson"
+        "value": "Penélope Cruz y Milena Smit"
       },
       {
-        "icon": "💬",
-        "label": "Eslogan",
-        "value": "«Que las posibilidades estén siempre a tu favor.»"
+        "icon": "⏱️",
+        "label": "Duración",
+        "value": "120 min"
       },
       {
         "icon": "📝",
         "label": "Sinopsis",
-        "value": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza."
+        "value": "Dos mujeres solteras que se han quedado embarazadas por accidente y que están a punto de dar a luz coinciden en una habitación de hospital: Janis, de mediana edad, no se arrepiente y es feliz; Ana, una adolescente, se siente arrepentida y asustada."
       }
     ],
-    "hint_day": 4,
+    "hint_day": 1,
     "hint_times": [
-      "2026-11-10T17:19:14.384100+01:00",
-      "2026-11-11T16:58:59.290466+01:00",
-      "2026-11-12T17:42:29.080437+01:00",
-      "2026-11-13T17:00:32.677678+01:00"
+      "2026-11-14T15:54:15.138319+01:00"
     ],
     "toot_ids": [
-      "117593050636303045",
-      "117598633317193970",
-      "117604466654721446",
-      "117609964048535234",
-      "117611299860848645"
+      "117615365717828170"
     ],
-    "status": "finished",
-    "winners": [
-      {
-        "acct": "osunac",
-        "day": 4,
-        "points": 5,
-        "streak": 4,
-        "streak_bonus": 1,
-        "theme_bonus": 0
-      }
-    ],
-    "attempts": {
-      "claraalbor": {
-        "2": 1,
-        "3": 1
-      },
-      "osunac": {
-        "4": 1
-      }
-    }
+    "status": "active",
+    "winners": [],
+    "attempts": {}
   },
-  "last_daily": "2026-11-13",
+  "last_daily": "2026-11-14",
   "last_notification_id": 7392910,
   "used_tmdb_ids": [
     1339713,
     1724,
     872,
-    70160
+    70160,
+    766798
   ],
   "scores": {
     "weekly": {
