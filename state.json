@@ -82,10 +82,14 @@
     ],
     "status": "active",
     "winners": [],
-    "attempts": {}
+    "attempts": {
+      "osunac": {
+        "1": 1
+      }
+    }
   },
   "last_daily": "2026-11-14",
-  "last_notification_id": 7395333,
+  "last_notification_id": 7397102,
   "used_tmdb_ids": [
     1339713,
     1724,
