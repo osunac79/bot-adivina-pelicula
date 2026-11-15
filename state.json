@@ -100,9 +100,7 @@
     766798
   ],
   "scores": {
-    "weekly": {
-      "osunac": 10
-    },
+    "weekly": {},
     "monthly": {
       "2026-11": {
         "osunac": 21
@@ -122,20 +120,7 @@
   "solved_counts": {
     "osunac": 4
   },
-  "week_rounds": [
-    {
-      "n": 3,
-      "title": "Cantando bajo la lluvia",
-      "solved": true,
-      "day": 4
-    },
-    {
-      "n": 4,
-      "title": "Los Juegos del Hambre",
-      "solved": true,
-      "day": 4
-    }
-  ],
+  "week_rounds": [],
   "history": [
     {
       "week_end": "2026-11-01",
@@ -148,6 +133,16 @@
         [
           "osunac",
           11
+        ]
+      ],
+      "rounds": 2
+    },
+    {
+      "week_end": "2026-11-16",
+      "top": [
+        [
+          "osunac",
+          10
         ]
       ],
       "rounds": 2
