@@ -80,18 +80,29 @@
     ],
     "toot_ids": [
       "117615365717828170",
-      "117621175298506031"
+      "117621175298506031",
+      "117623154071820304"
     ],
-    "status": "active",
-    "winners": [],
+    "status": "finished",
+    "winners": [
+      {
+        "acct": "osunac",
+        "day": 2,
+        "points": 8,
+        "streak": 5,
+        "streak_bonus": 2,
+        "theme_bonus": 0
+      }
+    ],
     "attempts": {
       "osunac": {
-        "1": 1
+        "1": 1,
+        "2": 1
       }
     }
   },
   "last_daily": "2026-11-15",
-  "last_notification_id": 7399335,
+  "last_notification_id": 7400446,
   "used_tmdb_ids": [
     1339713,
     1724,
@@ -100,27 +111,36 @@
     766798
   ],
   "scores": {
-    "weekly": {},
+    "weekly": {
+      "osunac": 8
+    },
     "monthly": {
       "2026-11": {
-        "osunac": 21
+        "osunac": 29
       }
     },
     "alltime": {
-      "osunac": 21
+      "osunac": 29
     }
   },
   "streaks": {
     "osunac": {
-      "current": 4,
-      "best": 4,
-      "last_round": 4
+      "current": 5,
+      "best": 5,
+      "last_round": 5
     }
   },
   "solved_counts": {
-    "osunac": 4
+    "osunac": 5
   },
-  "week_rounds": [],
+  "week_rounds": [
+    {
+      "n": 5,
+      "title": "Madres paralelas",
+      "solved": true,
+      "day": 2
+    }
+  ],
   "history": [
     {
       "week_end": "2026-11-01",
