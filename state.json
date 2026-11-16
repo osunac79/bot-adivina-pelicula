@@ -1,114 +1,103 @@
 {
-  "round_counter": 5,
+  "round_counter": 6,
   "round": {
-    "n": 5,
-    "theme": "espanol",
+    "n": 6,
+    "theme": "general",
     "movie": {
-      "tmdb_id": 766798,
-      "title": "Madres paralelas",
-      "original_title": "Madres paralelas",
-      "title_en": "Parallel Mothers",
-      "year": 2021,
-      "overview": "Dos mujeres solteras que se han quedado embarazadas por accidente y que están a punto de dar a luz coinciden en una habitación de hospital: Janis, de mediana edad, no se arrepiente y es feliz; Ana, una adolescente, se siente arrepentida y asustada.",
-      "tagline": "",
-      "runtime": 120,
-      "vote_average": 6.784,
+      "tmdb_id": 466272,
+      "title": "Érase una vez en… Hollywood",
+      "original_title": "Once Upon a Time in... Hollywood",
+      "title_en": "Once Upon a Time in... Hollywood",
+      "year": 2019,
+      "overview": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
+      "tagline": "En esta ciudad, todo puede cambiar.",
+      "runtime": 162,
+      "vote_average": 7.417,
       "genres": [
-        "Drama"
+        "Comedia",
+        "Drama",
+        "Suspense"
       ],
       "directors": [
-        "Pedro Almodóvar"
+        "Quentin Tarantino"
       ],
       "cast": [
-        "Penélope Cruz",
-        "Milena Smit",
-        "Israel Elejalde",
-        "Aitana Sánchez-Gijón",
-        "Rossy de Palma",
-        "Julieta Serrano"
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie",
+        "Emile Hirsch",
+        "Margaret Qualley",
+        "Timothy Olyphant"
       ],
       "countries": [
-        "España"
+        "China",
+        "Reino Unido",
+        "EE. UU."
       ],
-      "language": "español",
+      "language": "inglés",
       "companies": [
-        "El Deseo",
-        "TVE"
+        "Heyday Films",
+        "Columbia Pictures",
+        "Bona Film Group"
       ],
-      "poster_path": "/cxp4W9QtHOOdi2VfgUmB9AtljvA.jpg"
+      "poster_path": "/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg"
     },
     "aliases": [
-      "Madres paralelas",
-      "Parallel Mothers"
+      "Once Upon a Time in... Hollywood",
+      "Érase una vez en… Hollywood"
     ],
     "hints": [
       {
         "icon": "🎭",
         "label": "Género",
-        "value": "Drama"
+        "value": "Comedia, Drama, Suspense"
       },
       {
         "icon": "📅",
         "label": "Época y país",
-        "value": "década de 2020 · España"
+        "value": "década de 2010 · China"
       },
       {
         "icon": "🎬",
         "label": "Dirección",
-        "value": "Pedro Almodóvar"
+        "value": "Quentin Tarantino"
       },
       {
         "icon": "👥",
         "label": "Reparto",
-        "value": "Penélope Cruz y Milena Smit"
+        "value": "Leonardo DiCaprio y Brad Pitt"
       },
       {
-        "icon": "⏱️",
-        "label": "Duración",
-        "value": "120 min"
+        "icon": "💬",
+        "label": "Eslogan",
+        "value": "«En esta ciudad, todo puede cambiar.»"
       },
       {
         "icon": "📝",
         "label": "Sinopsis",
-        "value": "Dos mujeres solteras que se han quedado embarazadas por accidente y que están a punto de dar a luz coinciden en una habitación de hospital: Janis, de mediana edad, no se arrepiente y es feliz; Ana, una adolescente, se siente arrepentida y asustada."
+        "value": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…"
       }
     ],
-    "hint_day": 2,
+    "hint_day": 1,
     "hint_times": [
-      "2026-11-14T15:54:15.138319+01:00",
-      "2026-11-15T16:31:42.796329+01:00"
+      "2026-11-16T19:13:04.463936+01:00"
     ],
     "toot_ids": [
-      "117615365717828170",
-      "117621175298506031",
-      "117623154071820304"
+      "117627472138211925"
     ],
-    "status": "finished",
-    "winners": [
-      {
-        "acct": "osunac",
-        "day": 2,
-        "points": 8,
-        "streak": 5,
-        "streak_bonus": 2,
-        "theme_bonus": 0
-      }
-    ],
-    "attempts": {
-      "osunac": {
-        "1": 1,
-        "2": 1
-      }
-    }
+    "status": "active",
+    "winners": [],
+    "attempts": {}
   },
-  "last_daily": "2026-11-15",
+  "last_daily": "2026-11-16",
   "last_notification_id": 7401294,
   "used_tmdb_ids": [
     1339713,
     1724,
     872,
     70160,
-    766798
+    766798,
+    466272
   ],
   "scores": {
     "weekly": {
