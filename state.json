@@ -78,22 +78,24 @@
         "value": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…"
       }
     ],
-    "hint_day": 3,
+    "hint_day": 4,
     "hint_times": [
       "2026-11-16T19:13:04.463936+01:00",
       "2026-11-17T18:30:09.142620+01:00",
-      "2026-11-18T18:05:53.534205+01:00"
+      "2026-11-18T18:05:53.534205+01:00",
+      "2026-11-19T18:13:57.015498+01:00"
     ],
     "toot_ids": [
       "117627472138211925",
       "117632965641019141",
-      "117638532571518701"
+      "117638532571518701",
+      "117644226580875357"
     ],
     "status": "active",
     "winners": [],
     "attempts": {}
   },
-  "last_daily": "2026-11-18",
+  "last_daily": "2026-11-19",
   "last_notification_id": 7415265,
   "used_tmdb_ids": [
     1339713,
