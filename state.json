@@ -1,115 +1,92 @@
 {
-  "round_counter": 6,
+  "round_counter": 7,
   "round": {
-    "n": 6,
-    "theme": "general",
+    "n": 7,
+    "theme": "dificil",
     "movie": {
-      "tmdb_id": 466272,
-      "title": "Érase una vez en… Hollywood",
-      "original_title": "Once Upon a Time in... Hollywood",
-      "title_en": "Once Upon a Time in... Hollywood",
-      "year": 2019,
-      "overview": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
-      "tagline": "En esta ciudad, todo puede cambiar.",
-      "runtime": 162,
-      "vote_average": 7.417,
+      "tmdb_id": 5925,
+      "title": "La gran evasión",
+      "original_title": "The Great Escape",
+      "title_en": "The Great Escape",
+      "year": 1963,
+      "overview": "En 1943 los nazis, exasperados por el número de fugas de sus prisiones por un número relativamente pequeño de prisioneros aliados, deciden trasladarlos a todos a una prisión de alta seguridad \"a prueba de fugas\" durante el resto de la guerra. Los presos no tardan en trazar el plan de uno de los intentos de fuga más ambiciosos de la Segunda Guerra Mundial. Basado en una historia real.",
+      "tagline": "La historia rigurosamente verí­dica de una de las mayores gestas clandestinas.",
+      "runtime": 163,
+      "vote_average": 7.921,
       "genres": [
-        "Comedia",
+        "Aventura",
         "Drama",
-        "Suspense"
+        "Bélica"
       ],
       "directors": [
-        "Quentin Tarantino"
+        "John Sturges"
       ],
       "cast": [
-        "Leonardo DiCaprio",
-        "Brad Pitt",
-        "Margot Robbie",
-        "Emile Hirsch",
-        "Margaret Qualley",
-        "Timothy Olyphant"
+        "Steve McQueen",
+        "James Garner",
+        "Richard Attenborough",
+        "James Donald",
+        "Charles Bronson",
+        "Donald Pleasence"
       ],
       "countries": [
-        "China",
-        "Reino Unido",
         "EE. UU."
       ],
       "language": "inglés",
       "companies": [
-        "Heyday Films",
-        "Columbia Pictures",
-        "Bona Film Group"
+        "The Mirisch Company",
+        "United Artists"
       ],
-      "poster_path": "/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg"
+      "poster_path": "/zyXTt4nDNBbS0oULtDuiFpzhA4x.jpg"
     },
     "aliases": [
-      "Once Upon a Time in... Hollywood",
-      "Érase una vez en… Hollywood"
+      "La gran evasión",
+      "The Great Escape"
     ],
     "hints": [
       {
         "icon": "🎭",
         "label": "Género",
-        "value": "Comedia, Drama, Suspense"
+        "value": "Aventura, Drama, Bélica"
       },
       {
         "icon": "📅",
         "label": "Época y país",
-        "value": "década de 2010 · China"
+        "value": "años 60 · EE. UU."
       },
       {
         "icon": "🎬",
         "label": "Dirección",
-        "value": "Quentin Tarantino"
+        "value": "John Sturges"
       },
       {
         "icon": "👥",
         "label": "Reparto",
-        "value": "Leonardo DiCaprio y Brad Pitt"
+        "value": "Steve McQueen y James Garner"
       },
       {
         "icon": "💬",
         "label": "Eslogan",
-        "value": "«En esta ciudad, todo puede cambiar.»"
+        "value": "«La historia rigurosamente verí­dica de una de las mayores gestas clandestinas.»"
       },
       {
         "icon": "📝",
         "label": "Sinopsis",
-        "value": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…"
+        "value": "En 1943 los nazis, exasperados por el número de fugas de sus prisiones por un número relativamente pequeño de prisioneros aliados, deciden trasladarlos a todos a una prisión de alta seguridad \"a prueba de fugas\" durante el resto de la guerra. Los presos no tardan en trazar el plan de uno de los intentos de fuga más ambiciosos de la Segunda Guerra Mundial. Basado en una historia real."
       }
     ],
-    "hint_day": 4,
+    "hint_day": 1,
     "hint_times": [
-      "2026-11-16T19:13:04.463936+01:00",
-      "2026-11-17T18:30:09.142620+01:00",
-      "2026-11-18T18:05:53.534205+01:00",
-      "2026-11-19T18:13:57.015498+01:00"
+      "2026-11-20T17:51:50.916355+01:00"
     ],
     "toot_ids": [
-      "117627472138211925",
-      "117632965641019141",
-      "117638532571518701",
-      "117644226580875357",
-      "117645315161508396"
+      "117649803637800267"
     ],
-    "status": "finished",
-    "winners": [
-      {
-        "acct": "osunac",
-        "day": 4,
-        "points": 6,
-        "streak": 6,
-        "streak_bonus": 2,
-        "theme_bonus": 0
-      }
-    ],
-    "attempts": {
-      "osunac": {
-        "4": 1
-      }
-    }
+    "status": "active",
+    "winners": [],
+    "attempts": {}
   },
-  "last_daily": "2026-11-19",
+  "last_daily": "2026-11-20",
   "last_notification_id": 7422594,
   "used_tmdb_ids": [
     1339713,
@@ -117,7 +94,8 @@
     872,
     70160,
     766798,
-    466272
+    466272,
+    5925
   ],
   "scores": {
     "weekly": {
