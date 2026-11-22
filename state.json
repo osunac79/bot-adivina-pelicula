@@ -75,20 +75,22 @@
         "value": "En 1943 los nazis, exasperados por el número de fugas de sus prisiones por un número relativamente pequeño de prisioneros aliados, deciden trasladarlos a todos a una prisión de alta seguridad \"a prueba de fugas\" durante el resto de la guerra. Los presos no tardan en trazar el plan de uno de los intentos de fuga más ambiciosos de la Segunda Guerra Mundial. Basado en una historia real."
       }
     ],
-    "hint_day": 2,
+    "hint_day": 3,
     "hint_times": [
       "2026-11-20T17:51:50.916355+01:00",
-      "2026-11-21T17:00:08.198423+01:00"
+      "2026-11-21T17:00:08.198423+01:00",
+      "2026-11-22T17:06:23.726143+01:00"
     ],
     "toot_ids": [
       "117649803637800267",
-      "117655260938698100"
+      "117655260938698100",
+      "117660947854912761"
     ],
     "status": "active",
     "winners": [],
     "attempts": {}
   },
-  "last_daily": "2026-11-21",
+  "last_daily": "2026-11-22",
   "last_notification_id": 7443170,
   "used_tmdb_ids": [
     1339713,
