@@ -84,14 +84,28 @@
     "toot_ids": [
       "117649803637800267",
       "117655260938698100",
-      "117660947854912761"
+      "117660947854912761",
+      "117662453132718980"
     ],
-    "status": "active",
-    "winners": [],
-    "attempts": {}
+    "status": "finished",
+    "winners": [
+      {
+        "acct": "osunac",
+        "day": 3,
+        "points": 9,
+        "streak": 7,
+        "streak_bonus": 2,
+        "theme_bonus": 2
+      }
+    ],
+    "attempts": {
+      "osunac": {
+        "3": 1
+      }
+    }
   },
   "last_daily": "2026-11-22",
-  "last_notification_id": 7447349,
+  "last_notification_id": 7447463,
   "used_tmdb_ids": [
     1339713,
     1724,
@@ -103,26 +117,26 @@
   ],
   "scores": {
     "weekly": {
-      "osunac": 14
+      "osunac": 23
     },
     "monthly": {
       "2026-11": {
-        "osunac": 35
+        "osunac": 44
       }
     },
     "alltime": {
-      "osunac": 35
+      "osunac": 44
     }
   },
   "streaks": {
     "osunac": {
-      "current": 6,
-      "best": 6,
-      "last_round": 6
+      "current": 7,
+      "best": 7,
+      "last_round": 7
     }
   },
   "solved_counts": {
-    "osunac": 6
+    "osunac": 7
   },
   "week_rounds": [
     {
@@ -136,6 +150,12 @@
       "title": "Érase una vez en… Hollywood",
       "solved": true,
       "day": 4
+    },
+    {
+      "n": 7,
+      "title": "La gran evasión",
+      "solved": true,
+      "day": 3
     }
   ],
   "history": [
