@@ -1,110 +1,92 @@
 {
-  "round_counter": 7,
+  "round_counter": 8,
   "round": {
-    "n": 7,
-    "theme": "dificil",
+    "n": 8,
+    "theme": "ciencia-ficcion",
     "movie": {
-      "tmdb_id": 5925,
-      "title": "La gran evasión",
-      "original_title": "The Great Escape",
-      "title_en": "The Great Escape",
-      "year": 1963,
-      "overview": "En 1943 los nazis, exasperados por el número de fugas de sus prisiones por un número relativamente pequeño de prisioneros aliados, deciden trasladarlos a todos a una prisión de alta seguridad \"a prueba de fugas\" durante el resto de la guerra. Los presos no tardan en trazar el plan de uno de los intentos de fuga más ambiciosos de la Segunda Guerra Mundial. Basado en una historia real.",
-      "tagline": "La historia rigurosamente verí­dica de una de las mayores gestas clandestinas.",
-      "runtime": 163,
-      "vote_average": 7.921,
+      "tmdb_id": 131631,
+      "title": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "original_title": "The Hunger Games: Mockingjay - Part 1",
+      "title_en": "The Hunger Games: Mockingjay - Part 1",
+      "year": 2014,
+      "overview": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
+      "tagline": "El fuego arde con más fuerza en la oscuridad.",
+      "runtime": 123,
+      "vote_average": 6.816,
       "genres": [
+        "Ciencia ficción",
         "Aventura",
-        "Drama",
-        "Bélica"
+        "Suspense"
       ],
       "directors": [
-        "John Sturges"
+        "Francis Lawrence"
       ],
       "cast": [
-        "Steve McQueen",
-        "James Garner",
-        "Richard Attenborough",
-        "James Donald",
-        "Charles Bronson",
-        "Donald Pleasence"
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks",
+        "Julianne Moore"
       ],
       "countries": [
         "EE. UU."
       ],
       "language": "inglés",
       "companies": [
-        "The Mirisch Company",
-        "United Artists"
+        "Lionsgate",
+        "Color Force"
       ],
-      "poster_path": "/zyXTt4nDNBbS0oULtDuiFpzhA4x.jpg"
+      "poster_path": "/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg"
     },
     "aliases": [
-      "La gran evasión",
-      "The Great Escape"
+      "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "The Hunger Games: Mockingjay - Part 1"
     ],
     "hints": [
       {
         "icon": "🎭",
         "label": "Género",
-        "value": "Aventura, Drama, Bélica"
+        "value": "Ciencia ficción, Aventura, Suspense"
       },
       {
         "icon": "📅",
         "label": "Época y país",
-        "value": "años 60 · EE. UU."
+        "value": "década de 2010 · EE. UU."
       },
       {
         "icon": "🎬",
         "label": "Dirección",
-        "value": "John Sturges"
+        "value": "Francis Lawrence"
       },
       {
         "icon": "👥",
         "label": "Reparto",
-        "value": "Steve McQueen y James Garner"
+        "value": "Jennifer Lawrence y Josh Hutcherson"
       },
       {
         "icon": "💬",
         "label": "Eslogan",
-        "value": "«La historia rigurosamente verí­dica de una de las mayores gestas clandestinas.»"
+        "value": "«El fuego arde con más fuerza en la oscuridad.»"
       },
       {
         "icon": "📝",
         "label": "Sinopsis",
-        "value": "En 1943 los nazis, exasperados por el número de fugas de sus prisiones por un número relativamente pequeño de prisioneros aliados, deciden trasladarlos a todos a una prisión de alta seguridad \"a prueba de fugas\" durante el resto de la guerra. Los presos no tardan en trazar el plan de uno de los intentos de fuga más ambiciosos de la Segunda Guerra Mundial. Basado en una historia real."
+        "value": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía..."
       }
     ],
-    "hint_day": 3,
+    "hint_day": 1,
     "hint_times": [
-      "2026-11-20T17:51:50.916355+01:00",
-      "2026-11-21T17:00:08.198423+01:00",
-      "2026-11-22T17:06:23.726143+01:00"
+      "2026-11-23T20:59:52.743230+01:00"
     ],
     "toot_ids": [
-      "117649803637800267",
-      "117655260938698100",
-      "117660947854912761",
-      "117662453132718980"
+      "117667528276877652"
     ],
-    "status": "finished",
-    "winners": [
-      {
-        "acct": "osunac",
-        "day": 3,
-        "points": 9,
-        "streak": 7,
-        "streak_bonus": 2,
-        "theme_bonus": 2
-      }
-    ],
-    "attempts": {
-      "osunac": {
-        "3": 1
-      }
-    }
+    "status": "active",
+    "winners": [],
+    "attempts": {}
   },
-  "last_daily": "2026-11-22",
+  "last_daily": "2026-11-23",
   "last_notification_id": 7448793,
   "used_tmdb_ids": [
     1339713,
@@ -113,7 +95,8 @@
     70160,
     766798,
     466272,
-    5925
+    5925,
+    131631
   ],
   "scores": {
     "weekly": {},
