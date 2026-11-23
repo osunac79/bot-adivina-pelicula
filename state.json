@@ -116,9 +116,7 @@
     5925
   ],
   "scores": {
-    "weekly": {
-      "osunac": 23
-    },
+    "weekly": {},
     "monthly": {
       "2026-11": {
         "osunac": 44
@@ -138,26 +136,7 @@
   "solved_counts": {
     "osunac": 7
   },
-  "week_rounds": [
-    {
-      "n": 5,
-      "title": "Madres paralelas",
-      "solved": true,
-      "day": 2
-    },
-    {
-      "n": 6,
-      "title": "Érase una vez en… Hollywood",
-      "solved": true,
-      "day": 4
-    },
-    {
-      "n": 7,
-      "title": "La gran evasión",
-      "solved": true,
-      "day": 3
-    }
-  ],
+  "week_rounds": [],
   "history": [
     {
       "week_end": "2026-11-01",
@@ -183,6 +162,16 @@
         ]
       ],
       "rounds": 2
+    },
+    {
+      "week_end": "2026-11-23",
+      "top": [
+        [
+          "osunac",
+          23
+        ]
+      ],
+      "rounds": 3
     }
   ],
   "monthly_posted": null
