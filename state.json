@@ -82,14 +82,28 @@
     ],
     "toot_ids": [
       "117667528276877652",
-      "117673060723120525"
+      "117673060723120525",
+      "117673391019824186"
     ],
-    "status": "active",
-    "winners": [],
-    "attempts": {}
+    "status": "finished",
+    "winners": [
+      {
+        "acct": "osunac",
+        "day": 2,
+        "points": 8,
+        "streak": 8,
+        "streak_bonus": 2,
+        "theme_bonus": 0
+      }
+    ],
+    "attempts": {
+      "osunac": {
+        "2": 1
+      }
+    }
   },
   "last_daily": "2026-11-24",
-  "last_notification_id": 7453073,
+  "last_notification_id": 7458206,
   "used_tmdb_ids": [
     1339713,
     1724,
@@ -101,27 +115,36 @@
     131631
   ],
   "scores": {
-    "weekly": {},
+    "weekly": {
+      "osunac": 8
+    },
     "monthly": {
       "2026-11": {
-        "osunac": 44
+        "osunac": 52
       }
     },
     "alltime": {
-      "osunac": 44
+      "osunac": 52
     }
   },
   "streaks": {
     "osunac": {
-      "current": 7,
-      "best": 7,
-      "last_round": 7
+      "current": 8,
+      "best": 8,
+      "last_round": 8
     }
   },
   "solved_counts": {
-    "osunac": 7
+    "osunac": 8
   },
-  "week_rounds": [],
+  "week_rounds": [
+    {
+      "n": 8,
+      "title": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "solved": true,
+      "day": 2
+    }
+  ],
   "history": [
     {
       "week_end": "2026-11-01",
