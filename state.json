@@ -75,18 +75,20 @@
         "value": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía..."
       }
     ],
-    "hint_day": 1,
+    "hint_day": 2,
     "hint_times": [
-      "2026-11-23T20:59:52.743230+01:00"
+      "2026-11-23T20:59:52.743230+01:00",
+      "2026-11-24T20:26:51.389782+01:00"
     ],
     "toot_ids": [
-      "117667528276877652"
+      "117667528276877652",
+      "117673060723120525"
     ],
     "status": "active",
     "winners": [],
     "attempts": {}
   },
-  "last_daily": "2026-11-23",
+  "last_daily": "2026-11-24",
   "last_notification_id": 7453073,
   "used_tmdb_ids": [
     1339713,
