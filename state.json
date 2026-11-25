@@ -1,108 +1,91 @@
 {
-  "round_counter": 8,
+  "round_counter": 9,
   "round": {
-    "n": 8,
-    "theme": "ciencia-ficcion",
+    "n": 9,
+    "theme": "general",
     "movie": {
-      "tmdb_id": 131631,
-      "title": "Los Juegos del Hambre: Sinsajo - Parte 1",
-      "original_title": "The Hunger Games: Mockingjay - Part 1",
-      "title_en": "The Hunger Games: Mockingjay - Part 1",
-      "year": 2014,
-      "overview": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
-      "tagline": "El fuego arde con más fuerza en la oscuridad.",
-      "runtime": 123,
-      "vote_average": 6.816,
+      "tmdb_id": 14160,
+      "title": "Up",
+      "original_title": "Up",
+      "title_en": "Up",
+      "year": 2009,
+      "overview": "Tras atar miles de globos a su casa, Carl Fredricksen, un vendedor de globos jubilado, se embarca en el mundo de los sueños de la infancia. Pero sin que Carl lo sepa, Russell, un explorador de 8 años, se encuentra en el lugar equivocado en el momento equivocado: el porche delantero de la casa. El dúo más improbable conoce a fantásticos amigos como Dug, un perro con un collar especial que le permite hablar, y Kevin, un pájaro de cuatro metros de altura que no vuela. Atrapados en la selva, Carl se da cuenta de que a veces las mayores aventuras de la vida son las que menos esperabas.",
+      "tagline": "Una aventura de altura.",
+      "runtime": 96,
+      "vote_average": 7.96,
       "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Suspense"
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Aventura"
       ],
       "directors": [
-        "Francis Lawrence"
+        "Pete Docter"
       ],
       "cast": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Liam Hemsworth",
-        "Woody Harrelson",
-        "Elizabeth Banks",
-        "Julianne Moore"
+        "Ed Asner",
+        "Christopher Plummer",
+        "Jordan Nagai",
+        "Bob Peterson",
+        "Delroy Lindo",
+        "Jerome Ranft"
       ],
       "countries": [
         "EE. UU."
       ],
       "language": "inglés",
       "companies": [
-        "Lionsgate",
-        "Color Force"
+        "Pixar"
       ],
-      "poster_path": "/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg"
+      "poster_path": "/1N0LtzUueXrlnpL466jQBJ6iAuj.jpg"
     },
     "aliases": [
-      "Los Juegos del Hambre: Sinsajo - Parte 1",
-      "The Hunger Games: Mockingjay - Part 1"
+      "Up"
     ],
     "hints": [
       {
         "icon": "🎭",
         "label": "Género",
-        "value": "Ciencia ficción, Aventura, Suspense"
+        "value": "Animación, Comedia, Familia"
       },
       {
         "icon": "📅",
         "label": "Época y país",
-        "value": "década de 2010 · EE. UU."
+        "value": "década de 2000 · EE. UU."
       },
       {
         "icon": "🎬",
         "label": "Dirección",
-        "value": "Francis Lawrence"
+        "value": "Pete Docter"
       },
       {
         "icon": "👥",
         "label": "Reparto",
-        "value": "Jennifer Lawrence y Josh Hutcherson"
+        "value": "Ed Asner y Christopher Plummer"
       },
       {
         "icon": "💬",
         "label": "Eslogan",
-        "value": "«El fuego arde con más fuerza en la oscuridad.»"
+        "value": "«Una aventura de altura.»"
       },
       {
         "icon": "📝",
         "label": "Sinopsis",
-        "value": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía..."
+        "value": "Tras atar miles de globos a su casa, Carl Fredricksen, un vendedor de globos jubilado, se embarca en el mundo de los sueños de la infancia. Pero sin que Carl lo sepa, Russell, un explorador de 8 años, se encuentra en el lugar equivocado en el momento equivocado: el porche delantero de la casa. El dúo más improbable conoce a fantásticos amigos como Dug, un perro con un collar especial que le permite hablar, y Kevin, un pájaro de cuatro metros de altura que no vuela. Atrapados en la selva, Carl se da cuenta de que a veces las mayores aventuras de la vida son las que menos esperabas."
       }
     ],
-    "hint_day": 2,
+    "hint_day": 1,
     "hint_times": [
-      "2026-11-23T20:59:52.743230+01:00",
-      "2026-11-24T20:26:51.389782+01:00"
+      "2026-11-25T19:33:46.893017+01:00"
     ],
     "toot_ids": [
-      "117667528276877652",
-      "117673060723120525",
-      "117673391019824186"
+      "117678514351465918"
     ],
-    "status": "finished",
-    "winners": [
-      {
-        "acct": "osunac",
-        "day": 2,
-        "points": 8,
-        "streak": 8,
-        "streak_bonus": 2,
-        "theme_bonus": 0
-      }
-    ],
-    "attempts": {
-      "osunac": {
-        "2": 1
-      }
-    }
+    "status": "active",
+    "winners": [],
+    "attempts": {}
   },
-  "last_daily": "2026-11-24",
+  "last_daily": "2026-11-25",
   "last_notification_id": 7458470,
   "used_tmdb_ids": [
     1339713,
@@ -112,7 +95,8 @@
     766798,
     466272,
     5925,
-    131631
+    131631,
+    14160
   ],
   "scores": {
     "weekly": {
