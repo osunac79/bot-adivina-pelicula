@@ -85,12 +85,12 @@
     "winners": [],
     "attempts": {
       "osunac": {
-        "1": 1
+        "1": 2
       }
     }
   },
   "last_daily": "2026-11-25",
-  "last_notification_id": 7462971,
+  "last_notification_id": 7464062,
   "used_tmdb_ids": [
     1339713,
     1724,
