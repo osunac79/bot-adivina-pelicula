@@ -74,12 +74,14 @@
         "value": "Tras atar miles de globos a su casa, Carl Fredricksen, un vendedor de globos jubilado, se embarca en el mundo de los sueños de la infancia. Pero sin que Carl lo sepa, Russell, un explorador de 8 años, se encuentra en el lugar equivocado en el momento equivocado: el porche delantero de la casa. El dúo más improbable conoce a fantásticos amigos como Dug, un perro con un collar especial que le permite hablar, y Kevin, un pájaro de cuatro metros de altura que no vuela. Atrapados en la selva, Carl se da cuenta de que a veces las mayores aventuras de la vida son las que menos esperabas."
       }
     ],
-    "hint_day": 1,
+    "hint_day": 2,
     "hint_times": [
-      "2026-11-25T19:33:46.893017+01:00"
+      "2026-11-25T19:33:46.893017+01:00",
+      "2026-11-26T19:17:50.167961+01:00"
     ],
     "toot_ids": [
-      "117678514351465918"
+      "117678514351465918",
+      "117684113950445510"
     ],
     "status": "active",
     "winners": [],
@@ -89,7 +91,7 @@
       }
     }
   },
-  "last_daily": "2026-11-25",
+  "last_daily": "2026-11-26",
   "last_notification_id": 7464401,
   "used_tmdb_ids": [
     1339713,
