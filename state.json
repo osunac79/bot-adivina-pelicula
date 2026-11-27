@@ -90,12 +90,13 @@
         "1": 3
       },
       "Aliciayaestaaqui@mastodon.social": {
-        "1": 2
+        "1": 2,
+        "2": 1
       }
     }
   },
   "last_daily": "2026-11-26",
-  "last_notification_id": 7467386,
+  "last_notification_id": 7469743,
   "used_tmdb_ids": [
     1339713,
     1724,
